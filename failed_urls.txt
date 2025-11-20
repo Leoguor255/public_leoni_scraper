@@ -1,0 +1,4 @@
+# Failed URLs Log - Generated on 2025-11-15 14:07:50
+# Format: TIMESTAMP | SOURCE | CITY | PROJECT_TITLE | URL | REASON
+# This file is automatically populated during scraping runs
+
