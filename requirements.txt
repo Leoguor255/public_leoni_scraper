@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.2
+pandas==2.1.4
+selenium==4.15.2
+webdriver-manager==4.0.1
+undetected-chromedriver==3.5.4
+lxml==4.9.3
+
+# New dependencies for LLM integration
+python-dotenv==1.0.0
+requests==2.31.0
+PyPDF2==3.0.1

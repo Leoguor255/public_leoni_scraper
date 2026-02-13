@@ -1,0 +1,55 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables and API keys
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Scraper-specific files to ignore
+cookies.pkl
+session_cookies.pkl
+failed_urls.txt
+combined_scraped_data.csv
+
+# CSV output folders - exclude entire directories
+opengov/
+planetbid/
+artesia/
+bell_gardens/
+bidnet/
+calabasas/
+compton/
+earc/
+elsegundo/
+inglewood/
+lomita/
+paramount/
+questcdn/
+san_fernando/
+san_gabriel/
+
+# Test and debug scripts
+*.test.py
+test_*.py
+debug_*.py
